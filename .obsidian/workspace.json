@@ -6,7 +6,6 @@
       {
         "id": "aad330e54f1cf0f0",
         "type": "tabs",
-        "dimension": 70.58823529411765,
         "children": [
           {
             "id": "2694d56d978be80c",
@@ -15,28 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2025/04-April/2025-04-03.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025-04-03"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc4905b5c0c50865",
-        "type": "tabs",
-        "dimension": 29.411764705882355,
-        "children": [
-          {
-            "id": "7e77063fa49a9955",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -189,13 +171,22 @@
   },
   "active": "2694d56d978be80c",
   "lastOpenFiles": [
+    "images/daily_note.png",
+    "images/image-1.png",
+    "image-1.png",
+    "image.png",
+    "templates/Daily_Note_Template.md",
     "Daily Notes/2025/04-April/2025-04-03.md",
+    "images/image.png",
+    "images/user_scripts.png",
+    "images/trigger_folder.png",
+    "images/trigger_templater.png",
+    "images",
     "Daily Notes/2025/04-April",
     "Daily Notes/2025",
     "Daily Notes/2025/04-квітень/2025-04-03.md",
     "Daily Notes/2025/04-квітень",
     "2025-04-03.md",
-    "templates/Daily_Note_Template.md",
     "Вітаємо.md",
     "Daily Notes",
     "templates/Щоденна нотатка.md",

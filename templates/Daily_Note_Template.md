@@ -9,8 +9,6 @@ Created: <% tp.file.creation_date() %>
 ---
 ### Today's meetings
 <% tp.user.meetings(tp.file.title) %>
-### 📅 Щоденні питання
----
 # 📝 Notes
 - <% tp.file.cursor() %>
 

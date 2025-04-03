@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Daily Notes",
-      "template": "templates/Щоденна нотатка.md"
+      "template": "templates/Daily_Note_Template.md"
     }
   ],
   "enable_file_templates": false,
